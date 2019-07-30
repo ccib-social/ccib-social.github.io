@@ -1,9 +1,7 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "Meet the Board"
+    url: /board/
+  - title: "Journal Club"
+    url: /jc/
+  - title: "Student Elected Speakers"
+    url: /speakers/
