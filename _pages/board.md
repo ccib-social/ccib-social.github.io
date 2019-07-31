@@ -12,6 +12,8 @@ Heather earned her BS in Chemistry (2015) and MS in Forensic Science (2017) from
 
 <hr><br /><br />
 
+<p align="center">
+
 <b>Experimental Vice Chair:</b> <br />
 Sung Won Oh <br />
 Fifth-year PhD candidate <br /><br />
@@ -21,6 +23,8 @@ Fifth-year PhD candidate <br /><br />
 Sung earned her BS in Biochemistry (2015) from Rutgers University-Camden. She currently works in the lab of <a href="https://jinglinfu.camden.rutgers.edu/">Dr. Jinglin Fu</a>, which focuses on the field of DNA nanotechnology in biochemistry. As a student in CCIB, Sung completed her teaching assistantship in the Biology department. In 2019, she won the CCIB Best Paper Award for her <i>Angewandte Chemie</i> paper <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201806749">"DNA-mediated proximity assembly of biochemical reactions"</a>, and she participates in the <a href="http://oed.rutgers.edu/content/rutgers-i-corps-site">Rutgers I-Corps</a> program. Outside of school, Sung enjoys playing the cello. <br /><br />
 
 <hr><br /><br />
+
+<p align="center">
 
 <b>Computational Vice Chair:</b> <br />
 Liam Sharp <br />
