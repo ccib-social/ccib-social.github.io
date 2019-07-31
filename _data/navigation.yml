@@ -1,6 +1,8 @@
 main:
   - title: "Meet the Board"
     url: /board/
+  - title: "Bylaws"
+    url: https://github.com/ccib-social/ccib-social.github.io/blob/master/assets/docs/ccib_soc_constitution.pdf
   - title: "Journal Club"
     url: /jc/
   - title: "Student Elected Speakers"
