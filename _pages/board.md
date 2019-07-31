@@ -1,6 +1,5 @@
 ---
 permalink: /board/
-title: "Meet the Board"
 ---
 
 <p align="center">
@@ -11,13 +10,17 @@ Third-year PhD candidate <br /><br />
 
 Heather earned her BS in Chemistry (2015) and MS in Forensic Science (2017) from Arcadia University. She currently works in the cheminformatics lab of <a href="https://zhu.camden.rutgers.edu/">Dr. Hao Zhu</a>, where her dissertation research focuses on applications of deep learning and uses of chemical big data in mechanism-driven toxicity modeling predictions. As a student in CCIB, Heather completed her teaching assistantship in the Chemistry department. She served as the Computational Vice Chair of the SOC and was an active member of the Graduate Student Advisory Council during the 2018-2019 academic year. Outside of school, she enjoys documentaries, podcasts, and books about true crime and playing with her pet bearded dragon Delilah. <br /><br />
 
+<hr><br /><br />
+
 <b>Experimental Vice Chair:</b> <br />
 Sung Won Oh <br />
 Fifth-year PhD candidate <br /><br />
 
 <img src="https://github.com/ccib-social/ccib-social.github.io/blob/master/assets/images/sung.JPG?raw=true" alt="Sung Won Oh" width="200" /> <br /><br />
 
-Sung earned her BS in Biochemistry (2015) from Rutgers University-Camden. She currently works in the lab of <a href="https://jinglinfu.camden.rutgers.edu/">Dr. Jinglin Fu</a>, which focuses on the field of DNA nanotechnology in biochemistry. As a student in CCIB, Sung completed her teaching assistantship in the Biology department. In 2019, she won the CCIB Best Paper Award for her <i>Angewandte Chemie</i> paper <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201806749">"DNA-mediated proximity assembly of biochemical reactions"</a>, and she participates in the <a href="http://oed.rutgers.edu/content/rutgers-i-corps-site">Rutgers I-Corps</a> program. Outside of school, Sung enjoys playing the violin. <br /><br />
+Sung earned her BS in Biochemistry (2015) from Rutgers University-Camden. She currently works in the lab of <a href="https://jinglinfu.camden.rutgers.edu/">Dr. Jinglin Fu</a>, which focuses on the field of DNA nanotechnology in biochemistry. As a student in CCIB, Sung completed her teaching assistantship in the Biology department. In 2019, she won the CCIB Best Paper Award for her <i>Angewandte Chemie</i> paper <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201806749">"DNA-mediated proximity assembly of biochemical reactions"</a>, and she participates in the <a href="http://oed.rutgers.edu/content/rutgers-i-corps-site">Rutgers I-Corps</a> program. Outside of school, Sung enjoys playing the cello. <br /><br />
+
+<hr><br /><br />
 
 <b>Computational Vice Chair:</b> <br />
 Liam Sharp <br />
