@@ -16,6 +16,5 @@ Assistant Professor, The Ben May Department of Cancer Research, University of Ch
 
 <hr>
 <p align="center">
-<b>Spring 2018:</b> Dr. Christopher Voigt, Associate Professor of Biological Engineering, Massachusetts Institute of Technology<br /><br />
-<b>Fall 2017:</b> Dr. Alexander Tropsha, Associate Dean for Pharmacoinformatics and Data Science, University of North Carolina
-</p>
+<b>Spring 2018:</b><br />Dr. Christopher Voigt, Associate Professor of Biological Engineering, Massachusetts Institute of Technology<br /><br />
+<b>Fall 2017:</b><br />Dr. Alexander Tropsha, Associate Dean for Pharmacoinformatics and Data Science, University of North Carolina
