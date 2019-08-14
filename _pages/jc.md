@@ -4,7 +4,7 @@ permalink: /jc/
 author_profile: false
 ---
 
-<font size="4">The CCIB Journal Club meet to discuss and assess articles in the scientific literature in the fields of biology, chemistry, computer science, mathematics, and physics as applied to biological systems. Most weeks, the articles for journal club discussion will align with the <a href="https://ccib.camden.rutgers.edu/seminars/">CCIB seminar series</a>, featuring work by the visiting speaker.
+<font size="4">The CCIB Journal Club meets to discuss and assess articles in the scientific literature in the fields of biology, chemistry, computer science, mathematics, and physics as applied to biological systems. Most weeks, the articles for journal club discussion will align with the <a href="https://ccib.camden.rutgers.edu/seminars/">CCIB seminar series</a>, featuring work by the visiting speaker.
 
 On weeks which CCIB students give seminar, the Journal Club will discuss articles of special interest to its members. The Journal Club welcomes suggestions for special interest articles by its members. <a href="https://www.dropbox.com/request/05bGxvuzKun0YtdVWykJ?oref=e">Submit your article suggestion as a pdf here!</a>
 
