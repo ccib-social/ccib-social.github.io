@@ -1,9 +1,10 @@
 ---
-title: "Student-Elected Speakers"
 permalink: /speakers/
 author_profile: false
 ---
 <p align="center">
+  
+<h1>Student-Elected Speakers</h1><br /><br />
 <font size="4">A major responsibility of the SOC is to nominate, vote for, and invite one speaker per year for the <a href="https://ccib.camden.rutgers.edu/seminars/">CCIB seminar series</a>. The student-elected speakers that the SOC invites to campus are performing research that aligns to the special interests of the CCIB student body. Below, you will find an archive of the previous speakers invited to campus by CCIB students.
   
 <hr>
