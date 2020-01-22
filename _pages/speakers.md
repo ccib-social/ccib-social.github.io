@@ -9,6 +9,12 @@ author_profile: false
   
 <hr>
 <p align="center">
+<b>Spring 2020</b><br />
+Dr. Alejandro Soto-Gutierrez<br />
+Associate Professor, Department of Pathology, University of Pittsburgh<br /><br />
+  
+<hr>
+<p align="center">
 <b>Spring 2019</b><br />
 Dr. Xiaoyang Wu<br />
 Assistant Professor, The Ben May Department of Cancer Research, University of Chicago<br /><br />
