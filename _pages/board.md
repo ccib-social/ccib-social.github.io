@@ -21,7 +21,7 @@ Fifth-year PhD candidate <br /><br />
 
 <img src="https://github.com/ccib-social/ccib-social.github.io/blob/master/assets/images/sung.JPG?raw=true" alt="Sung Won Oh" width="200" /> <br /><br />
 
-Sung earned her BS in Biochemistry (2015) from Rutgers University-Camden. She currently works in the lab of <a href="https://jinglinfu.camden.rutgers.edu/">Dr. Jinglin Fu</a>, which focuses on the field of DNA nanotechnology in biochemistry. As a student in CCIB, Sung completed her teaching assistantship in the Biology department. In 2019, she won the CCIB Best Paper Award for her <i>Angewandte Chemie</i> paper <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201806749">"DNA-mediated proximity assembly of biochemical reactions"</a>, and she participates in the <a href="http://oed.rutgers.edu/content/rutgers-i-corps-site">Rutgers I-Corps</a> program. Outside of school, Sung enjoys playing the cello.</font>
+Sung earned her BS in Biochemistry (2015) from Rutgers University-Camden. She currently works in the lab of <a href="https://jinglinfu.camden.rutgers.edu/">Dr. Jinglin Fu</a>, which focuses on the field of DNA nanotechnology in biochemistry. As a student in CCIB, Sung completed her teaching assistantship in the Biology department. In 2019, she won the CCIB Best Paper Award for her <i>Angewandte Chemie</i> paper <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201806749">"DNA-mediated proximity assembly of biochemical reactions"</a>, and she participated in the National I-Corps program funded by the Department of Defense. Outside of school, Sung enjoys playing the cello.</font>
 
 <hr>
 
