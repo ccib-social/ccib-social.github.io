@@ -13,18 +13,38 @@ The CCIB Journal Club meets weekly on Mondays in the Rutgers-Camden Campus Cente
 <hr>
 
 <header>
-  <h3>Fall 2019 Meeting Schedule</h3>
+  <h3>Spring 2020 Meeting Schedule</h3>
  </header>
 
 <table style="width:100%">
   <tr>
     <th>Date</th>
-    <th>Discussion Leader</th> 
+    <th>Seminar Speaker</th>
     <th>Article</th>
+    <th>Discussion Leader</th>
   </tr>
   <tr>
     <td>January 28</td>
-    <td>Liam Sharp</td> 
+    <td>Dr. Andrew Leifer, Department of Physics and Princeton Neuroscience Institute, Princeton University
     <td>TBD</td>
+    <td>Liam Sharp</td>
+  </tr>
+  <tr>
+    <td>February 11</td>
+    <td>Dr. Akhilesh Reddy, Department of Systems Pharmacology and Translational Therapeutics and Institute for Translational Medicine and Therapeutics, Perelman School of Medicine, University of Pennsylvania
+    <td>TBD</td>
+    <td>Anushriya Subedy</td>
+  </tr>
+  <tr>
+    <td>February 18</td>
+    <td>Dr. Sagar Khare, Department of Chemistry and Chemical Biology and Institute for Quantitative Biomedicine, Rutgers University
+    <td>TBD</td>
+    <td>Sung Won Oh</td>
+  </tr>
+  <tr>
+    <td>February 25</td>
+    <td>Dr. Warren Booth, Department of Biological Science, University of Tulsa
+    <td>TBD</td>
+    <td>Anushriya Subedy</td>
   </tr>
 </table>
