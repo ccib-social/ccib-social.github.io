@@ -25,7 +25,7 @@ The CCIB Journal Club meets weekly on Mondays at 2 PM in the Joint Health Scienc
   </tr>
   <tr>
     <td>January 28</td>
-    <td>Dr. Andrew Leifer, Department of Physics and Princeton Neuroscience Institute, Princeton University
+    <td>Dr. Andrew Leifer, Department of Physics and Princeton Neuroscience Institute, Princeton University</td>
     <td>TBD</td>
     <td>Liam Sharp</td>
   </tr>
