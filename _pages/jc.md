@@ -23,18 +23,8 @@ The CCIB Journal Club meets weekly on Mondays in the Rutgers-Camden Campus Cente
     <th>Article</th>
   </tr>
   <tr>
-    <td>September 10</td>
-    <td>Heather Ciallella</td> 
-    <td>TBD</td>
-  </tr>
-  <tr>
-    <td>September 17</td>
+    <td>January 28</td>
     <td>Liam Sharp</td> 
-    <td>TBD</td>
-  </tr>
-  <tr>
-    <td>September 24</td>
-    <td>Sung Won Oh</td> 
     <td>TBD</td>
   </tr>
 </table>
