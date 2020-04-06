@@ -26,25 +26,25 @@ The CCIB Journal Club meets weekly on Mondays at 2 PM in the Joint Health Scienc
   <tr>
     <td>January 28</td>
     <td>Dr. Andrew Leifer, Department of Physics and Princeton Neuroscience Institute, Princeton University</td>
-    <td>TBD</td>
+    <td><a href="https://www.biorxiv.org/content/10.1101/445643v1.abstract">Predicting natural behavior from whole-brain neural dynamics</a></td>
     <td>Liam Sharp</td>
   </tr>
   <tr>
     <td>February 11</td>
     <td>Dr. Akhilesh Reddy, Department of Systems Pharmacology and Translational Therapeutics and Institute for Translational Medicine and Therapeutics, Perelman School of Medicine, University of Pennsylvania</td>
-    <td>TBD</td>
+    <td><a href="https://www.life-science-alliance.org/content/2/6/e201900603.abstract">Phenotypic proteomic profiling identifies a landscape of targets for circadian clock-modulating compounds</a></td>
     <td>Anushriya Subedy</td>
   </tr>
   <tr>
     <td>February 18</td>
     <td>Dr. Sagar Khare, Department of Chemistry and Chemical Biology and Institute for Quantitative Biomedicine, Rutgers University</td>
-    <td>TBD</td>
+    <td><a href="https://www.nature.com/articles/s41557-019-0277-y">Stimulus-responsive self-assembly of protein-based fractals by computational design</a></td>
     <td>Sung Won Oh</td>
   </tr>
   <tr>
     <td>February 25</td>
     <td>Dr. Warren Booth, Department of Biological Science, University of Tulsa</td>
-    <td>TBD</td>
+    <td><a href="https://academic.oup.com/jme/advance-article-abstract/doi/10.1093/jme/tjaa022/5743104">Recent Detection of Multiple Populations of the Tropical Bed Bug (Hemiptera: Cimicidae) Exhibiting <i>kdr</i>-Associated Mutations in Hawaii</a></td>
     <td>Anushriya Subedy</td>
   </tr>
 </table>
