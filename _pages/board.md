@@ -41,7 +41,7 @@ Liam earned his BS in Physics (2012) from Juniata College and MS in Computationa
 
 <p align="center">
   
-  <font size="4"><b>Master's Representative</b> <br />
+  <font size="4"><b>Masters Representative</b> <br />
   Anushriya Subedy <br />
   First-year MS student <br /><br />
   
