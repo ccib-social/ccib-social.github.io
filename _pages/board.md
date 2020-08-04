@@ -7,35 +7,35 @@ author_profile: false
 
 <font size="4"><b>Chair</b> <br />
 Heather Ciallella <br />
-Third-year PhD candidate <br /><br />
+Fourth-year PhD candidate <br /><br />
   
   <img src="https://github.com/ccib-social/ccib-social.github.io/blob/master/assets/images/heather_soc.jpg?raw=true" alt="Heather Ciallella" width="200" /> <br /><br />
 
-Heather earned her BS in Chemistry (2015) and MS in Forensic Science (2017) from Arcadia University. She currently works in the cheminformatics lab of <a href="https://zhu.camden.rutgers.edu/">Dr. Hao Zhu</a>, where her dissertation research focuses on applications of deep learning and uses of chemical big data in mechanism-driven toxicity modeling predictions. As a student in CCIB, Heather completed her teaching assistantship in the Chemistry department. She served as the Computational Vice Chair of the SOC and was an active member of the Graduate Student Advisory Council during the 2018-2019 academic year. Outside of school, she enjoys documentaries, podcasts, and books about true crime and playing with her pet bearded dragon Delilah.</font>
+Heather earned her BS in Chemistry (2015) and MS in Forensic Science (2017) from Arcadia University. She currently works in the cheminformatics lab of <a href="https://zhu.camden.rutgers.edu/">Dr. Hao Zhu</a>, where her dissertation research focuses on applications of deep learning and uses of chemical big data in mechanism-driven toxicity modeling predictions. As a student in CCIB, Heather completed her teaching assistantship in the Chemistry department. She served as the Computational Vice Chair of the SOC during the 2018-2019 academic year and as Chair during the 2019-2020 academic year and has been an active member of the Graduate Student Advisory Council for two years. Outside of school, she enjoys documentaries, podcasts, and books about true crime and playing with her pet bearded dragon Delilah.</font>
 
 <hr>
 
 <p align="center">
 
 <font size="4"><b>Experimental Vice Chair</b> <br />
-Sung Won Oh <br />
+Cody Stevens <br />
 Fifth-year PhD candidate <br /><br />
 
-<img src="https://github.com/ccib-social/ccib-social.github.io/blob/master/assets/images/sung.JPG?raw=true" alt="Sung Won Oh" width="200" /> <br /><br />
+<img src="https://github.com/ccib-social/ccib-social.github.io/blob/master/assets/images/Cody-Stevens.JPG?raw=true" alt="Cody Stevens" width="200" /> <br /><br />
 
-Sung earned her BS in Biochemistry (2015) from Rutgers University-Camden. She currently works in the lab of <a href="https://jinglinfu.camden.rutgers.edu/">Dr. Jinglin Fu</a>, which focuses on the field of DNA nanotechnology in biochemistry. As a student in CCIB, Sung completed her teaching assistantship in the Biology department. In 2019, she won the CCIB Best Paper Award for her <i>Angewandte Chemie</i> paper <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201806749">"DNA-mediated proximity assembly of biochemical reactions"</a>, and she participated in the National I-Corps program funded by the Department of Defense. Outside of school, Sung enjoys playing the cello.</font>
+Cody earned his BS in Biology (2014) from Plattsburgh University. He joined the Rutgers Camden University Masters Program for Biology then continued into the Doctoral CCIB Program in 2017. As a student, he has completed his teaching assistantship in the Biology Department for General Biology and Genetics. Cody currently works in the lab of <a href="https://yakoby.camden.rutgers.edu/">Dr. Nir Yakoby</a> for <i>Drosophila</i> genetics. His primary research focuses on the signal transduction networks of anterior-posterior fate determination in early development of the Drosophila egg chamber, as well as the molecular evolution of <i>cis</i>-regulatory elements controlling phenotypic structures between <i>Drosophila</i> species.</font>
 
 <hr>
 
 <p align="center">
 
 <font size="4"><b>Computational Vice Chair</b> <br />
-Liam Sharp <br />
-Fourth-year PhD candidate <br /><br />
+Jesse Sandberg <br />
+Second-year MS candidate <br /><br />
 
-<img src="https://github.com/ccib-social/ccib-social.github.io/blob/master/assets/images/liam.png?raw=true" alt="Liam Sharp" width="200" /> <br /><br />
+<img src="https://github.com/ccib-social/ccib-social.github.io/blob/master/assets/images/jesse.jpg?raw=true" alt="Jesse Sandberg" width="200" /> <br /><br />
 
-Liam earned his BS in Physics (2012) from Juniata College and MS in Computational and Integrative Biology (2016) from Rutgers University-Camden. He currently works in <a href="https://branniganlab.wordpress.com/">Dr. Brannigan</a>'s computational lab. He runs molecular dynamics simulations to better understand the interactions between neurological proteins and their membranes. In lay terms, he watches lipids dance around with proteins on a computer. He is interested in membrane mixing patterns and domain formation due to saturated lipids and polyunsaturated lipids (animal fat and fish oil), and how neurological and non-neurological membranes differ when embedded with neurological proteins (how model membranes look compared to realistic membranes). As a student in CCIB, Liam worked as a physics tutor for the campus Learning Center and completed his teaching assistantship in the Math and Physics departments. Outside of the lab, he likes to travel, go to museums, read books, and play co-operative board games.</font>
+Jesse earned his BA in Psychology (2011) from the George Washington University. For several years he held managerial and consultant positions abroad and in the US, most recently serving as a corporate strategy consultant for several Fortune 500 companies. Jesse’s decision to change careers and once again pursue science was finalized in 2019. He now works in the <a href="https://branniganlab.wordpress.com/">Brannigan Lab</a> running simulations of a protein that is found in coronaviruses, including COVID-19. Outside of lab, Jesse loves cooking, gardening, and reading.</font>
 
 <hr>
 
@@ -43,7 +43,7 @@ Liam earned his BS in Physics (2012) from Juniata College and MS in Computationa
   
   <font size="4"><b>Masters Representative</b> <br />
   Anushriya Subedy <br />
-  First-year MS student <br /><br />
+  Second-year MS candidate <br /><br />
   
   <img src="https://github.com/ccib-social/ccib-social.github.io/blob/master/assets/images/Shriya_soc.jpg?raw=true" alt="Anushriya Subedy" width="200" /> <br /><br />
   
