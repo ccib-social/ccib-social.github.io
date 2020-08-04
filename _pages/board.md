@@ -21,7 +21,7 @@ Heather earned her BS in Chemistry (2015) and MS in Forensic Science (2017) from
 Cody Stevens <br />
 Fifth-year PhD candidate <br /><br />
 
-<img src="https://github.com/ccib-social/ccib-social.github.io/blob/master/assets/images/Cody-Stevens.JPG?raw=true" alt="Cody Stevens" width="200" /> <br /><br />
+<img src="https://github.com/ccib-social/ccib-social.github.io/blob/master/assets/images/Cody-Stevens.jpg?raw=true" alt="Cody Stevens" width="200" /> <br /><br />
 
 Cody earned his BS in Biology (2014) from Plattsburgh University. He joined the Rutgers Camden University Masters Program for Biology then continued into the Doctoral CCIB Program in 2017. As a student, he has completed his teaching assistantship in the Biology Department for General Biology and Genetics. Cody currently works in the lab of <a href="https://yakoby.camden.rutgers.edu/">Dr. Nir Yakoby</a> for <i>Drosophila</i> genetics. His primary research focuses on the signal transduction networks of anterior-posterior fate determination in early development of the Drosophila egg chamber, as well as the molecular evolution of <i>cis</i>-regulatory elements controlling phenotypic structures between <i>Drosophila</i> species.</font>
 
