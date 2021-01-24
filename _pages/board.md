@@ -55,5 +55,17 @@ Jesse earned his BA in Psychology (2011) from the George Washington University. 
   <img src="https://github.com/ccib-social/ccib-social.github.io/blob/master/assets/images/Shriya_soc.jpg?raw=true" alt="Anushriya Subedy" width="200" /> <br /><br />
   
   Anushriya earned her BS in Biotechnology (2017) from University of California–Davis. She currently works in <a href="https://ericklein.camden.rutgers.edu/">Dr. Klein</a>’s lab. Her project focuses on understanding the surface layer protein and outer membrane lipids and its effects on bacteriophage infection on <i>Caulobacter cresentus</i>. Currently she is a teaching assistant in the Biology department. Outside of school, she enjoys arts and crafts.</font>
+  
+<hr>
 
 </p>
+
+<h2>Past Board Members</h2> <br /><br />
+<b>2019 - 2020 Board</b><br />
+<ins>Chair</ins>: Heather Ciallella (doctoral candidate, Zhu lab) <br />
+<ins>Experimental Vice-Chair</ins>: Sung Won Oh (doctoral candidate, Fu lab) <br /> 
+<ins>Computational Vice-Chair</ins>: Liam Sharp (doctoral candidate, Brannigan lab) <br /> 
+<ins>MS Representative</ins>: Anushriya Subedy (MS candidate, Klein lab) <br /><br />
+<b>2018 - 2019 Board</b><br />
+<ins>Chair</ins>: Daniel Russo (doctoral candidate, Zhu lab) <br /> 
+<ins>Experimental Vice-Chair</ins>: Christopher Sottolano (doctoral candidate, Yakoby lab) <br /> <ins>Computational Vice-Chair</ins>: Heather Ciallella (doctoral candidate, Zhu lab)<br /><br />
