@@ -1,5 +1,5 @@
 ---
-permalink: /speakers/
+permalink: /student_success/
 author_profile: false
 ---
 
