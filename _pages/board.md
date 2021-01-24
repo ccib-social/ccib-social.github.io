@@ -4,10 +4,13 @@ author_profile: false
 ---
 
 <p align="center">
+  
+<h2>2020 - 2021 Board</h2> <br /><br />
 
 <font size="4"><b>Chair</b> <br />
 Heather Ciallella <br />
-Fourth-year PhD candidate <br /><br />
+Fourth-year PhD candidate <br />
+<ins>Term</ins>: 05/2020 - 04/2021 <br /><br />
   
   <img src="https://github.com/ccib-social/ccib-social.github.io/blob/master/assets/images/heather_soc.jpg?raw=true" alt="Heather Ciallella" width="200" /> <br /><br />
 
@@ -19,7 +22,8 @@ Heather earned her BS in Chemistry (2015) and MS in Forensic Science (2017) from
 
 <font size="4"><b>Experimental Vice Chair</b> <br />
 Cody Stevens <br />
-Fifth-year PhD candidate <br /><br />
+Fifth-year PhD candidate <br />
+<ins>Term</ins>: 05/2020 - 04/2021 <br /><br />
 
 <img src="https://github.com/ccib-social/ccib-social.github.io/blob/master/assets/images/Cody-Stevens.jpg?raw=true" alt="Cody Stevens" width="200" /> <br /><br />
 
@@ -31,7 +35,8 @@ Cody earned his BS in Biology (2014) from Plattsburgh University. He joined the 
 
 <font size="4"><b>Computational Vice Chair</b> <br />
 Jesse Sandberg <br />
-Second-year MS candidate <br /><br />
+Second-year MS candidate <br />
+<ins>Term</ins>: 05/2020 - 04/2021 <br /><br />
 
 <img src="https://github.com/ccib-social/ccib-social.github.io/blob/master/assets/images/jesse.jpg?raw=true" alt="Jesse Sandberg" width="200" /> <br /><br />
 
@@ -43,7 +48,8 @@ Jesse earned his BA in Psychology (2011) from the George Washington University. 
   
   <font size="4"><b>Masters Representative</b> <br />
   Anushriya Subedy <br />
-  Second-year MS candidate <br /><br />
+  Second-year MS candidate <br />
+  <ins>Term</ins>: 11/2019 - 10/2020 <br /><br />
   
   <img src="https://github.com/ccib-social/ccib-social.github.io/blob/master/assets/images/Shriya_soc.jpg?raw=true" alt="Anushriya Subedy" width="200" /> <br /><br />
   
