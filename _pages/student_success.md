@@ -41,7 +41,7 @@ author_profile: false
 28. <b>Zhao L</b>, <b>Ciallella HL</b>, Aleksunes LM, Zhu H. Advancing computer-aided drug discovery (CADD) by big data and data-driven machine learning modeling. Drug Discov Today. 2020;25(9):1624-1638. doi: 10.1016/j.drudis.2020.07.005.<br />
 29. <b>Zhao L</b>, <b>Russo DP</b>, <b>Wang W</b>, Aleksunes LM, Zhu H. Mechanism-driven read-across of chemical hepatotoxicants based on chemical structures and biological data. Toxicol Sci. 2020 Apr 1;174(2):178-188. doi: 10.1093/toxsci/kfaa005.<br />
 <hr>
-<font size="4"><b>Papers and Reports (Accepted or Published in 2020)</b> <br /><br />
+<font size="4"><b>Meeting Abstracts</b> <br /><br />
 *Co first-author<br />
 <b>CCIB graduate student</b><br />
 <i>CCIB undergraduate student</i><br />
