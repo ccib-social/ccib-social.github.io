@@ -3,7 +3,7 @@ permalink: /student_success/
 author_profile: false
 ---
 
-<h2>2020 Student and Postdoc Accomplishments</h2> <br /><br />
+<h2>2020 Student and Postdoc Accomplishments</h2>
 
 <font size="4"><b>Papers and Reports (Accepted or Published in 2020)</b> <br /><br />
 *Co first-author<br />
