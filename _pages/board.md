@@ -3,9 +3,10 @@ permalink: /board/
 author_profile: false
 ---
 
-<p align="center">
-  
+ 
 <h2>2020 - 2021 Board</h2> <br /><br />
+
+<p align="center">
 
 <font size="4"><b>Chair</b> <br />
 Heather Ciallella <br />
