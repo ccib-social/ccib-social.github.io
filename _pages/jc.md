@@ -8,7 +8,7 @@ author_profile: false
 
 On weeks which CCIB students give seminar, the Journal Club will discuss articles of special interest to its members. The Journal Club welcomes suggestions for special interest articles by its members. <a href="https://www.dropbox.com/request/05bGxvuzKun0YtdVWykJ?oref=e">Submit your article suggestion as a pdf here!</a><br /><br />
 
-The CCIB Journal Club meets weekly on Mondays at 2 PM in the Joint Health Sciences Center, Room 203. Complimentary coffee and snacks will be provided. All students (undergraduate and graduate) and postdocs in CCIB research labs are welcome. See below for a more detailed schedule.</font>
+In normal semesters, the CCIB Journal Club meets weekly on Mondays at 2 PM in the Joint Health Sciences Center, Room 203. Complimentary coffee and snacks are provided. All students (undergraduate and graduate) and postdocs in CCIB research labs are welcome. Due to the COVID-19 pandemic, we will meet online via Zoom for the forseeable future. See below for a more detailed schedule.</font>
 
 <hr>
 
