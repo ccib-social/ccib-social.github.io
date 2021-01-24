@@ -50,7 +50,7 @@ Jesse earned his BA in Psychology (2011) from the George Washington University. 
   
 <hr>
 
-<h2>Past Board Members</h2> <br /><br />
+<h2>Past Board Members</h2><br />
 <font size="4"><b>2019 - 2020 Board</b><br />
 <ins>Chair</ins>: Heather Ciallella (doctoral candidate, Zhu lab) <br />
 <ins>Experimental Vice-Chair</ins>: Sung Won Oh (doctoral candidate, Fu lab) <br /> 
