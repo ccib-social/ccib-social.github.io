@@ -6,8 +6,6 @@ author_profile: false
  
 <h2>2020 - 2021 Board</h2> <br /><br />
 
-<p align="center">
-
 <font size="4"><b>Chair</b> <br />
 Heather Ciallella <br />
 Fourth-year PhD candidate <br />
@@ -18,8 +16,6 @@ Fourth-year PhD candidate <br />
 Heather earned her BS in Chemistry (2015) and MS in Forensic Science (2017) from Arcadia University. She currently works in the cheminformatics lab of <a href="https://zhu.camden.rutgers.edu/">Dr. Hao Zhu</a>, where her dissertation research focuses on applications of deep learning and uses of chemical big data in mechanism-driven toxicity modeling predictions. As a student in CCIB, Heather completed her teaching assistantship in the Chemistry department. She served as the Computational Vice Chair of the SOC during the 2018-2019 academic year and as Chair during the 2019-2020 academic year and has been an active member of the Graduate Student Advisory Council for two years. Outside of school, she enjoys documentaries, podcasts, and books about true crime and playing with her pet bearded dragon Delilah.</font>
 
 <hr>
-
-<p align="center">
 
 <font size="4"><b>Experimental Vice Chair</b> <br />
 Cody Stevens <br />
@@ -32,8 +28,6 @@ Cody earned his BS in Biology (2014) from Plattsburgh University. He joined the 
 
 <hr>
 
-<p align="center">
-
 <font size="4"><b>Computational Vice Chair</b> <br />
 Jesse Sandberg <br />
 Second-year MS candidate <br />
@@ -44,8 +38,6 @@ Second-year MS candidate <br />
 Jesse earned his BA in Psychology (2011) from the George Washington University. For several years he held managerial and consultant positions abroad and in the US, most recently serving as a corporate strategy consultant for several Fortune 500 companies. Jesse’s decision to change careers and once again pursue science was finalized in 2019. He now works in the <a href="https://branniganlab.wordpress.com/">Brannigan Lab</a> running simulations of a protein that is found in coronaviruses, including COVID-19. Outside of lab, Jesse loves cooking, gardening, and reading.</font>
 
 <hr>
-
-<p align="center">
   
   <font size="4"><b>Masters Representative</b> <br />
   Anushriya Subedy <br />
@@ -57,8 +49,6 @@ Jesse earned his BA in Psychology (2011) from the George Washington University. 
   Anushriya earned her BS in Biotechnology (2017) from University of California–Davis. She currently works in <a href="https://ericklein.camden.rutgers.edu/">Dr. Klein</a>’s lab. Her project focuses on understanding the surface layer protein and outer membrane lipids and its effects on bacteriophage infection on <i>Caulobacter cresentus</i>. Currently she is a teaching assistant in the Biology department. Outside of school, she enjoys arts and crafts.</font>
   
 <hr>
-
-</p>
 
 <h2>Past Board Members</h2> <br /><br />
 <b>2019 - 2020 Board</b><br />
