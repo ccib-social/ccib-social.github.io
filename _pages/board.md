@@ -8,8 +8,8 @@ author_profile: false
 
 <font size="4"><b>Chair</b> <br />
 Heather Ciallella <br />
-Pronouns: she/her <br />
 Fifth-year PhD candidate <br />
+<ins>Pronouns</ins>: she/her <br />
 <ins>Term</ins>: 05/2021 - 04/2022 <br /><br />
   
   <img src="https://github.com/ccib-social/ccib-social.github.io/blob/master/assets/images/1622248866472.jpg?raw=true" alt="Heather Ciallella" width="200" /> <br /><br />
@@ -20,8 +20,8 @@ Heather earned her BS in Chemistry (2015) and MS in Forensic Science (2017) from
 
 <font size="4"><b>Experimental Vice Chair</b> <br />
 Nidhi Sheth <br />
-Pronouns: she/her <br />
 Fourth-year PhD candidate <br />
+<ins>Pronouns</ins>: she/her <br />
 <ins>Term</ins>: 05/2021 - 04/2022 <br /><br />
 
 <img src="https://github.com/ccib-social/ccib-social.github.io/blob/master/assets/images/Nidhi Sheth.jpeg?raw=true" alt="Nidhi Sheth" width="200" /> <br /><br />
@@ -32,8 +32,8 @@ Nidhi Sheth earned her BS in Pharmacy from Nirma University, India (2014) and MS
 
 <font size="4"><b>Computational Vice Chair and MS Program Representative</b> <br />
 John Orgera <br />
-Pronouns: he/him <br />
 Second-year MS candidate <br />
+<ins>Pronouns</ins>: he/him <br />
 <ins>Term</ins>: 05/2021 - 04/2022 <br /><br />
 
 <img src="https://github.com/ccib-social/ccib-social.github.io/blob/master/assets/images/john_orgera.jpg?raw=true" alt="John Orgera" width="200" /> <br /><br />
