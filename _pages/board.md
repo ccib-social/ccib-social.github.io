@@ -4,7 +4,7 @@ author_profile: false
 ---
 
  
-<h2>2020 - 2021 Board</h2> <br /><br />
+<h2>2020 - 2021 Board</h2> <br />
 
 <font size="4"><b>Chair</b> <br />
 Heather Ciallella <br />
