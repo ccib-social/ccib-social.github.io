@@ -18,7 +18,7 @@ Heather earned her BS in Chemistry (2015) and MS in Forensic Science (2017) from
 
 <hr>
 
-<font size="4"><b>Experimental Vice Chair</b> <br />
+<font size="4"><b>Experimental Vice-Chair</b> <br />
 Nidhi Sheth <br />
 Fourth-year PhD candidate <br />
 <ins>Pronouns</ins>: she/her <br />
@@ -30,7 +30,7 @@ Nidhi Sheth earned her BS in Pharmacy from Nirma University, India (2014) and MS
 
 <hr>
 
-<font size="4"><b>Computational Vice Chair and MS Program Representative</b> <br />
+<font size="4"><b>Computational Vice-Chair and MS Program Representative</b> <br />
 John Orgera <br />
 Second-year MS candidate <br />
 <ins>Pronouns</ins>: he/him <br />
